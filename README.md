@@ -141,6 +141,7 @@ Final modeling table, merging the two tables above.
 - The original match/timeline data is subject to the Riot API Terms of Use; check the latest terms
   before redistributing anything beyond what's here. This repository only publishes derived
   statistics (`data/interim`, `data/processed`) and excludes the raw API responses.
+- Code in this repository (src/) is released under the MIT License (see LICENSE); this does not extend to the dataset files below, which remain subject to the terms noted here.
 
 ## Setup
 
